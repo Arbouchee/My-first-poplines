@@ -1,6 +1,6 @@
 create_file:
 ..image : alpine
 ..script: 
-....-.echo ".... building"
-....-.mkdir build
-....-.touch build/file.txt 
+....-.echo.".... building"
+....-.mkdir.build
+....-.touch.build/file.txt 
